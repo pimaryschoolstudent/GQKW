@@ -1,11 +1,13 @@
-# gqkw
+﻿# gqkw
 
 #### 介绍
-传输
+一款简易的文件传输App，使用较多动画可视化界面。欢迎大家Clone，Fork
 
-#### 软件架构
-软件架构说明
-
+#### 软件实现
+1.适配方案（今日头条） 参考 https://www.jianshu.com/p/1eeb0d8d1c86
+2.Ip获取（包括无线网卡） CSDN https://blog.csdn.net/qq_28741899/article/details/99300801
+3.ROOM 数据库使用 详情请看代码
+4.AndroidAsync的使用 详情请看代码
 
 #### 安装教程
 
@@ -15,23 +17,6 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.安装App，确保电脑手机连接同一WiFi，或者电脑连接手机热点，点击一键连接
+2.使用电脑登陆Ip地址，选择文件进行发送即可
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
