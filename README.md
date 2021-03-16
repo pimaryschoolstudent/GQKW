@@ -1,4 +1,6 @@
 ﻿# gqkw
+### CSDN
+ https://blog.csdn.net/qq_28741899/article/details/102987042?spm=1001.2014.3001.5502
 
 #### 介绍
 一款简易的文件传输App，基于AndroidAsync的使用实现文件传输功能，使用较多Lottie动画来可视化界面。欢迎大家Clone，Fork
